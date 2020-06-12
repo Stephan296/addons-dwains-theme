@@ -1,2 +1,2 @@
 # addons-dwains-theme
-Add-ons for Dwains HA theme
+Add-ons for Dwains Home Assistant theme
