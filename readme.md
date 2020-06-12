@@ -8,9 +8,9 @@ Usage
 To use this add-on in your Dwains Theme, add the following to your rooms.yaml file:
 
 # Example rooms.yaml entry
-  - name: Garage
+  - name: Ziggo Medianext box
     addons:
-      - name: Camera
+      - name: Ziggo Medianext box
         path: 'dwains-theme/addons/rooms/<your room>/nextmedia_box/page.yaml'
         button_path: 'dwains-theme/addons/<your room>/nextmedia_box/button.yaml'
         data:
