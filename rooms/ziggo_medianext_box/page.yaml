@@ -98,6 +98,5 @@
 
 ### TV-GIDS ###
     - type: iframe
-      url: >-
-        https://www.tvgids24.nl/gadget scrolling=no
+      url: https://www.tvgids24.nl/gadget
       aspect_ratio: 60%
