@@ -28,4 +28,4 @@ When you scroll down to the bottom of the guide page you can click at "instellin
 
 If you like my work please feel free to buy me a coffee
 
-<a href="https://www.buymeacoffee.com/klumpke" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee"></a>
+<a href="https://www.buymeacoffee.com/Stephan296" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee"></a>
