@@ -1,5 +1,5 @@
 # dwains_theme
-## Room add-on: Mediabox Next
+## Room add-on: Ziggo Medianext box
 ## Created by Stephan
 ## Version: 1.0.2
 
@@ -20,7 +20,7 @@
       entities:
         - entity: {{ (data | fromjson)['entity'] }}
           group: true
-          name: Mediabox Next
+          name: Medianext Box
           info: scroll
           type: 'custom:mini-media-player'
           hide:
@@ -35,7 +35,7 @@
             align_text: center
             buttons:
               - icon: mdi:power
-                name: Mediabox Next
+                name: Medianext Box
                 type: service
                 id: media_player.toggle
                 data:
