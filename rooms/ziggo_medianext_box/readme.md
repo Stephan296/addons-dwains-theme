@@ -4,7 +4,7 @@
 ### Installation
 - Install [Mini Media Player](https://github.com/kalkih/mini-media-player) from [HACS](https://hacs.xyz).
 - Copy the files `page.yaml` and `button.yaml` to your `<config dir>/dwains-theme/addons/rooms/<your room>/ziggo_nextmedia_box` directory.
-- Configure your 'rooms.yaml' file in '<config dir>/dwains-theme/configs' with config below.
+- Configure your `rooms.yaml` file in `<config dir>/dwains-theme/configs` with config below.
 - Restart Home Assistant.
 
 ### Usage
@@ -14,6 +14,7 @@ To use this add-on in your Dwains Theme, add the following to your `custom_resou
 - url: /hacsfiles/mini-media-player/mini-media-player-bundle.js
   type: module
 ```
+
 ```yaml
 # Example rooms.yaml entry
   - name: Ziggo Medianext box
