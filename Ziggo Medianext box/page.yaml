@@ -34,18 +34,18 @@
             columns: 3
             align_text: center
             buttons:
-              - icon: fal:power-off
+              - icon: mdi:power
                 name: Mediabox Next
                 type: service
                 id: media_player.toggle
                 data:
                   entity_id: media_player.stb_arris_uhd
-              - icon: fal:volume-down
+              - icon: mdi:volume-medium
                 type: service
                 id: media_player.volume_down
                 data:
                   entity_id: media_player.woonkamer
-              - icon: fal:volume-up
+              - icon: mdi:volume-high
                 type: service
                 id: media_player.volume_up
                 data:
