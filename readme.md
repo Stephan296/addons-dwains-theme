@@ -1,5 +1,5 @@
-## Ziggo Medianext box Add-on (rooms)
-Created by Stephan
+# Ziggo Medianext box Add-on (rooms)
+## Created by Stephan\
 Installation
 Copy the files page.yaml and button.yaml to your <config dir>/dwains-theme/addons/rooms/<your room>/nextmedia_box directory.
 Configure your rooms.yaml file in <config dir>/dwains-theme/configs with config below.
